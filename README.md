@@ -1,4 +1,4 @@
-# JMAY
-### the website of JMAY company
-### developed by flask, a lightwight web framework
-### author: xuanyang
+## JMAY
+#### 佳美阿姨公司网站
+#### 采用flask开发, 一个轻量级网络框架
+#### 作者：杨轩
